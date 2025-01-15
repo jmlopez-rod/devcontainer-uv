@@ -1,5 +1,5 @@
 #!/bin/bash
 set -xeuo pipefail
 
-docker tag devcontainer-python ghcr.io/jmlopez-rod/devcontainer-python:latest
-docker push ghcr.io/jmlopez-rod/devcontainer-python:latest
+docker tag devcontainer-uv ghcr.io/jmlopez-rod/devcontainer-uv:latest
+docker push ghcr.io/jmlopez-rod/devcontainer-uv:latest
